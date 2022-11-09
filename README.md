@@ -1,2 +1,4 @@
 # labwork1
-Labwork1 repository by ash
+Labwork1 
+Группа ППЖ-Б-О-20-1
+Студент: Шовгарян А.А.
